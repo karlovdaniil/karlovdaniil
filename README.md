@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm python developer</h3>
 
+<div><br></div>
+
 <div id="badges" align="center">
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-174394?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,8 +24,13 @@
     <img src="https://img.shields.io/badge/Docker-4870ff?style=for-the-badge&logo=docker&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div><br><br></div>
 
+<div><br></div>
+<div><br></div>
+
+[![codewars](https://www.codewars.com/users/DaniilKarlov/badges/large)](https://www.codewars.com/users/DaniilKarlov)
+
+<div><br></div>
 
 ✉️ __Contacts__ :<div><a href="https://t.me/KarlovDaniil"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram"/></a></div>
 
